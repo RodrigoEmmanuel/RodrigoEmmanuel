@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 
 <table>
   <tbody>
-    <td width="25%" align="center">
-      <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-    </td>
+
     <td width="25%" align="center">
       <span>𝗖𝗦𝗦𝟯</span><br><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
