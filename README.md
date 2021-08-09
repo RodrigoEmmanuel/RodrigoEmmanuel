@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 
 <table>
   <tbody>
+    <p align="center">
       <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-    </td>
+    </p>
   </tbody>
 </table>
 
