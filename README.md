@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <table>
   <tbody>
+    <br>
     <p align="center">
       <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
