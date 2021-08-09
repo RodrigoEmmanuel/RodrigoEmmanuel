@@ -27,6 +27,7 @@ Here are some ideas to get you started:
       <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
+      <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
     </p>
   </tbody>
 </table>
