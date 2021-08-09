@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá! Meu nome é Rodrigo Emmanuel 👋
 
 <!--
 **RodrigoEmmanuel/RodrigoEmmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
